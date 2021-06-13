@@ -17,5 +17,5 @@ I added multiple ways to run the program, you can run it with default acceptence
 
 Possible Additions:
 
-Better input validation,  Increasing unit test coverage  
+Better input validation,  Increasing unit test coverage, better exception handling
 
